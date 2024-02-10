@@ -1,0 +1,30 @@
+
+ .DiarytEditor {
+  border: 1px solid gray;
+  text-align: center;
+  padding: 20px;
+}
+
+.DiarytEditor input,
+textarea{
+  margin-bottom: 20px;
+  width: 500px;
+  padding: 10px;
+}
+
+.DiarytEditor textarea {
+  height: 150px;
+}
+
+.DiarytEditor select {
+width: 300px;
+padding: 10px;
+margin-bottom: 20px;
+margin-left: 10px;
+}
+
+.DiarytEditor button {
+  width: 500px;
+  padding: 10px;
+  cursor: pointer;
+}
